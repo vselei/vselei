@@ -3,7 +3,7 @@
 <br />
 
 - 🧑‍💻 Desenvolvedor full-stack
-- 📖 Estudando Remix
+- 📖 Sempre me aprimorando
 - ✉️ vsennaselei@gmail.com
 
 <br />
